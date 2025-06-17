@@ -1,0 +1,12 @@
+[package]
+name = "tinytones"
+version = "0.1.0"
+edition = "2024"
+authors = ["ImplFerris"]
+description = "A no_std crate for playing musical tones in embedded environments"
+license = "MIT"
+repository = "https://github.com/implferris/tinytones"
+readme = "README.md"
+
+
+[dependencies]
